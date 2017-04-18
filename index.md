@@ -10,4 +10,4 @@ My personal and professional interests include:
 * Fiber art including spinning and knitting
 * Writing speculative fiction
 
-My personal and writing blog can be found [here](thewordforgirl.blogspot.com)
+My personal and writing blog can be found [here](http://thewordforgirl.blogspot.com/)
