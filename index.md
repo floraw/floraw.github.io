@@ -11,3 +11,5 @@ My personal and professional interests include:
 * Writing speculative fiction
 
 My personal and writing blog can be found [here](http://thewordforgirl.blogspot.com/)
+
+[Flora's Hello World Repo](https://github.com/floraw/hello-world)
