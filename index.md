@@ -9,7 +9,7 @@ My personal and professional interests include:
 * Writing speculative fiction
 
 My code portfolio from CIT 281: Web Application Development, can be found here:
-* [Project 2](https://uo-cit.github.io/p2-17s-floraw/)
+* [Project 2](https://uo-cit.github.io/p2-17S-floraw/)
 	- Github Pages and Workflow
 * [Project 3](https://uo-cit.github.io/p3-17s-floraw/)
 	- Using AJAX principles to send GET requests to Flickr and 500px's API's and display images on a webpage
